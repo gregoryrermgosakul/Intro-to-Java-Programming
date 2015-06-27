@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=double\ uglyFraction(double,\ double)
+comment0.text=\r\n\ \ \ \ \ \ \ Computes\ the\ fraction\r\n\ \ \ \ \ \ \ \ \ \ \ y\r\n\ \ \ \ \ \ \ --------\r\n\ \ \ \ \ \ \ x(1\ +\ x)\r\n
+comment1.params=x
+comment1.target=double\ uglierFraction(double)
+comment1.text=\r\n\ \ \ \ \ \ \ \ Computes\ the\ fraction\r\n\ \ \ \ \ \ \ \ 2\ +\ x(3x\ -\ 4)\r\n\ \ \ \ \ \ \ \ -------------\r\n\ \ \ \ \ \ \ \ \ \ (x+2)(x)\r\n
+comment2.params=a\ b\ c\ d
+comment2.target=double\ average(int,\ int,\ int,\ int)
+comment2.text=\r\n\ \ \ \ \ \ \ \ Computes\ the\ average\ of\ four\ values.\r\n\ \ \ \ \ \ \ \ @param\ a\ the\ first\ value\r\n\ \ \ \ \ \ \ \ @param\ b\ the\ second\ value\r\n\ \ \ \ \ \ \ \ @param\ c\ the\ third\ value\r\n\ \ \ \ \ \ \ \ @param\ d\ the\ average\ of\ a,\ b,\ c,\ and\ d\r\n
+numComments=3

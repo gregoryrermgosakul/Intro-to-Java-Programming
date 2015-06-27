@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Polygon()
+comment1.params=p
+comment1.target=void\ add(java.awt.Point)
+comment2.params=
+comment2.target=double\ perimeter()
+comment3.params=
+comment3.target=void\ draw()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HomeworkScores()
+comment1.params=score
+comment1.target=void\ addScore(double)
+comment1.text=\r\n\ \ \ \ \ \ \ Adds\ a\ score.\r\n\ \ \ \ \ \ \ @param\ score\ the\ score\ to\ add\r\n
+comment2.params=
+comment2.target=double\ getTotalExcludingLowest()
+comment2.text=\r\n\ \ \ \ \ \ \ Calculates\ the\ sum\ of\ all\ the\ scores\ entered,\ dropping\ the\ lowest\r\n\ \ \ \ \ \ \ score\ if\ there\ is\ more\ than\ one.\r\n\ \ \ \ \ \ \ @return\ the\ sum\ of\ all\ the\ scores\ in\ scores.\r\n
+numComments=3

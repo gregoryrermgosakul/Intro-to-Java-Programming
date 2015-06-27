@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=numberOfSeats
+comment0.target=Car(int)
+comment0.text=\r\n\ \ \ \ \ \ \ \ Constructs\ a\ car\ with\ a\ given\ number\ of\ seats\r\n\ \ \ \ \ \ \ \ @param\ numberOfSeats\ the\ number\ of\ seats\ in\ this\ car.\r\n
+comment1.params=
+comment1.target=void\ addPassenger()
+comment1.text=\r\n\ \ \ \ \ \ \ Adds\ a\ passenger\ to\ this\ car,\ provided\ that\ there\ is\ space.\r\n
+comment2.params=
+comment2.target=int\ getPassengerCount()
+comment2.text=\r\n\ \ \ \ \ \ \ Gets\ the\ number\ of\ passengers\ in\ this\ car\ (not\ counting\ the\ driver).\r\n\ \ \ \ \ \ \ @return\ the\ number\ of\ passengers\r\n
+numComments=3

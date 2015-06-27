@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Die(int)
+comment0.text=\r\n\ \ \ \ \ \ \ Constructs\ a\ die\ with\ a\ given\ number\ of\ sides.\r\n\ \ \ \ \ \ \ @param\ s\ the\ number\ of\ sides,\ e.g.\ 6\ for\ a\ normal\ die\r\n
+comment1.params=
+comment1.target=int\ cast()
+comment1.text=\r\n\ \ \ \ \ \ \ Simulates\ a\ throw\ of\ the\ die\r\n\ \ \ \ \ \ \ @return\ the\ face\ of\ the\ die\r\n
+numComments=2

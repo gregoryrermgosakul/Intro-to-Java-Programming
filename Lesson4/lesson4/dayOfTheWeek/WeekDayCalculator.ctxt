@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=today\ daysToAdd
+comment0.target=int\ getDayOfTheWeek(int,\ int)
+comment0.text=\r\n\ Returns\ the\ day\ of\ the\ week\ it\ will\ be\ in\ daysToAdd\ days\r\n\ days\ of\ the\ week\ are\ prepresented\ as\ integers,\ \r\n\ Sunday\ is\ 0,\ \r\n\ Monday\ is\ 1,\ \r\n\ Tuesday\ is\ 2...\r\n\ \r\n\ @param\ today\ the\ number\ of\ today's\ day\ of\ the\ week\r\n\ @param\ daysToAdd\ the\ number\ of\ days\ to\ add\ \r\n
+numComments=1

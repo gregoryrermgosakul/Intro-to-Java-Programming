@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=Number(long)
+comment1.params=digitToMatch
+comment1.target=int\ countMatchingDigits(int)
+comment1.text=\r\n\ Returns\ the\ number\ of\ times\ digitToMatch\ appears\r\n\ in\ this\ number.\r\n\ @param\ digitToMatch\ the\ digit\ to\ search\ for.\r\n\ \ \ must\ be\ at\ least\ 0\ and\ at\ most\ 9.\r\n\ @return\ number\ of\ occurrences\ of\ digitToMatch\r\n
+numComments=2

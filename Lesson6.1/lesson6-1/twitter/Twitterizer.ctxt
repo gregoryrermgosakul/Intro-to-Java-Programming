@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=longPost
+comment0.target=java.lang.String\ shorten(java.lang.String)
+comment0.text=\r\n\ Shortens\ and\ returns\ long\ posts\ by\ removing\ vowels\r\n\ @param\ longPost\ the\ post\ whos\ vowels\ need\ to\ be\ removed\r\n\ @return\ a\ version\ of\ the\ post\ without\ vowels\r\n
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=void\ getLengths(java.util.ArrayList)
+comment0.text=\r\n\ prints\ length\ of\ each\ string\ in\ the\ arraylist\ all\ on\ one\ line\r\n\ @param\ text\ the\ array\ list\ to\ process\r\n
+numComments=1

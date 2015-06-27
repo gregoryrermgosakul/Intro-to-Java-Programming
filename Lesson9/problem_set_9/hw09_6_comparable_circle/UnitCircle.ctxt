@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=UnitCircle(int)
+comment1.params=
+comment1.target=int\ getRadius()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=otherObject
+comment3.target=int\ compareTo(java.lang.Object)
+numComments=4

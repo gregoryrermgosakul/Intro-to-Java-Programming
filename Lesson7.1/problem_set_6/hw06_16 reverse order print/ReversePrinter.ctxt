@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=void\ reversePrint(java.util.ArrayList)
+comment0.text=\r\n\ prints\ the\ array\ list\ in\ reverse\ order,\ one\ to\ a\ line\r\n\ @param\ text\ the\ array\ list\ to\ print\r\n
+numComments=1

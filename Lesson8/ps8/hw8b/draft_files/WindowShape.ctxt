@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=WindowShape(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WindowShape\r\n\ @param\ width\ the\ width\ of\ the\ rectangle\ and\ diameter\ of\ the\ semi-circle\r\n\ @param\ height\ the\ height\ of\ the\ rectangle\ alone\r\n
+comment1.params=
+comment1.target=double\ getWidth()
+comment1.text=\r\n\ Gets\ the\ width\ of\ this\ shape\r\n\ @return\ the\ width\r\n
+comment2.params=
+comment2.target=double\ getHeight()
+comment2.text=\r\n\ Gets\ the\ height\ of\ this\ shape\r\n\ @return\ the\ height\r\n
+comment3.params=
+comment3.target=double\ area()
+comment4.params=width\ height
+comment4.target=double\ area(double,\ double)
+numComments=5

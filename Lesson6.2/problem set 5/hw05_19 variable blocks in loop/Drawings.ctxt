@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=rows\ columns
+comment0.target=void\ blockPrinter(int,\ int)
+comment0.text=\r\n\ Prints\ a\ rows\ by\ columns\ array\ of\ blocks\ ([])\r\n\ @param\ rows\ the\ number\ of\ rows\ of\ []\r\n\ @param\ columns\ the\ number\ of\ columns\ of\ []\r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=longPost
+comment0.target=java.lang.String\ shorten(java.lang.String)
+comment0.text=\r\n\ Shortens\ and\ prints\ longPost\ by\ removing\ vowels.\r\n\ @param\ longPost\ the\ post\ whose\ vowels\ need\ to\ be\ removed.\r\n
+comment1.params=post
+comment1.target=java.lang.String\ reverse(java.lang.String)
+comment1.text=\r\n\ Prints\ a\ post\ backwards\ to\ hide\ its\ contents.\r\n\ @param\ post\ the\ post\ to\ be\ reversed.\r\n
+numComments=2

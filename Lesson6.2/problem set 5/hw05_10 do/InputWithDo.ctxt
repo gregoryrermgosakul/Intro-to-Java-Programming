@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getValidInput()
+comment0.text=\r\n\ Gets\ a\ number\ betwwen\ 1\ and\ 10\ (inclusive)\ from\ the\ user\r\n\ @return\ user\ input\ between\ 1\ and\ 10\ (inclusive)\r\n
+numComments=1

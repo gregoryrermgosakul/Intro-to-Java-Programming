@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=int\ nonVowelCount(java.lang.String)
+comment0.text=\r\n\ Gets\ the\ number\ of\ non-vowels\ in\ the\ parameter\r\n\ @param\ word\ the\ string\ to\ count\ the\ non-vowels\ in\r\n\ @return\ the\ number\ of\ non-vowels\ in\ the\ word\r\n
+numComments=1
